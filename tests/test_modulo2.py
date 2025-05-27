@@ -1,0 +1,1 @@
+# Testes para modulo2.py

@@ -1,0 +1,7 @@
+requests
+pandas
+pytest
+python-dotenv
+pyodbc
+setuptools
+flask

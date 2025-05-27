@@ -1,0 +1,9 @@
+[project]
+name = "assistent-n6"
+version = "0.1.0"
+description = "Um projeto base em Python"
+requires-python = ">=3.7"
+dependencies = ["requests", "pandas", "pyodbc", "setuptools"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
